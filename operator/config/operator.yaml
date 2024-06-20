@@ -1,6 +1,6 @@
 operator:
-    address: 0x5C2C2C6562998D607Df62Ca7CB60Ef6467d3A658
-    earnings_receiver_address: 0x5C2C2C6562998D607Df62Ca7CB60Ef6467d3A658
+    address: 0xBaC9bC7f0F30fe5B6EC859182948D454257be8Fb
+    earnings_receiver_address: 0xBaC9bC7f0F30fe5B6EC859182948D454257be8Fb
     delegation_approver_address: "0x0000000000000000000000000000000000000000"
     staker_opt_out_window_blocks: 0
     metadata_url: "https://raw.githubusercontent.com/NodeSphereGL/eigenlayer/main/operator/config/metadata.json"
